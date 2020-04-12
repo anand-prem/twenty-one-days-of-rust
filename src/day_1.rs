@@ -1,6 +1,9 @@
 use std::fmt;
 
 pub fn day1() {
+  println!("");
+  println!("<<<<<<<<<Day 1>>>>>>>>>");
+
   print_simple();
   print_self_defined_structure();
   print_with_display_trait();
