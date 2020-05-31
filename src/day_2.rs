@@ -1,8 +1,10 @@
 use std::mem;
 
-pub fn day2() {
+pub fn run() {
   println!("");
   println!("<<<<<<<<<Day 2>>>>>>>>>");
+  println!("Tuple, Array");
+  println!("============");
 
   tuple_array_slice();
 }

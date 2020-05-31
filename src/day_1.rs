@@ -1,8 +1,10 @@
 use std::fmt;
 
-pub fn day1() {
+pub fn run() {
   println!("");
   println!("<<<<<<<<<Day 1>>>>>>>>>");
+  println!("Print");
+  println!("=====");
 
   print_simple();
   print_self_defined_structure();
@@ -39,7 +41,7 @@ fn print_self_defined_structure() {
 }
 
 fn print_with_display_trait() {
-  println!("==========Print Self Defined Structure=========");
+  println!("==========Print Structure With Defined Structure=========");
 
   struct Point {
     x: i32,
