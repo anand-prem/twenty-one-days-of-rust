@@ -1,7 +1,6 @@
 use std::fmt;
 
 pub fn run() {
-  println!("");
   println!("<<<<<<<<<Day 1>>>>>>>>>");
   println!("Print");
   println!("=====");
